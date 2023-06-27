@@ -1,4 +1,4 @@
 @echo off
 CHCP 65001
-git pull
+.\git\bin\git.exe pull
 pause
